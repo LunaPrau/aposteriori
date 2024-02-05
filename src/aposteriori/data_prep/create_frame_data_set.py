@@ -11,7 +11,6 @@ import glob
 import gzip
 import multiprocessing as mp
 import pathlib
-from symbol import atom_expr
 import sys
 import time
 from tkinter import N
